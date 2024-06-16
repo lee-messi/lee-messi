@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I study stereotyping of large- and vision-language models
-- 🌱 I’m looking to collaborate on any related projects!
+- 🌱 A PhD Candidate in Computational and Data Sciences at WashU
+- 👯 I’m looking to collaborate on any related projects!
 - 📫 How to reach me: Send me an email! hojunlee[at]wustl[dot]edu
 
 <!--
